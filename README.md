@@ -11,9 +11,9 @@ git clone https://github.com/LucasXuan/es6-2020.git
 然后安装
 
 ```shell
-npm i
-npm i webpack -g
-npm i webpack-dev-server -g
+npm install
+npm install webpack -g
+npm install webpack-dev-server -g
 ```
 
 ### 运行
